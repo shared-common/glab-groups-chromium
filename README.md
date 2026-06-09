@@ -1,1 +1,1 @@
-# glab-groups-google
+# glab-groups-chromium
