@@ -3,7 +3,7 @@ name: chromium-group-sync
 
 "on":
   schedule:
-    - cron: "5 9,21 * * *"
+    - cron: "5 9 1-31/2 * *"
   workflow_dispatch:
 
 permissions: {}
